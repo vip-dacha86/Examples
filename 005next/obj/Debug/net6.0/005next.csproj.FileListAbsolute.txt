@@ -1,0 +1,15 @@
+C:\Git brance\C# works\Examples\005next\bin\Debug\net6.0\005next.exe
+C:\Git brance\C# works\Examples\005next\bin\Debug\net6.0\005next.deps.json
+C:\Git brance\C# works\Examples\005next\bin\Debug\net6.0\005next.runtimeconfig.json
+C:\Git brance\C# works\Examples\005next\bin\Debug\net6.0\005next.dll
+C:\Git brance\C# works\Examples\005next\bin\Debug\net6.0\005next.pdb
+C:\Git brance\C# works\Examples\005next\obj\Debug\net6.0\005next.csproj.AssemblyReference.cache
+C:\Git brance\C# works\Examples\005next\obj\Debug\net6.0\005next.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git brance\C# works\Examples\005next\obj\Debug\net6.0\005next.AssemblyInfoInputs.cache
+C:\Git brance\C# works\Examples\005next\obj\Debug\net6.0\005next.AssemblyInfo.cs
+C:\Git brance\C# works\Examples\005next\obj\Debug\net6.0\005next.csproj.CoreCompileInputs.cache
+C:\Git brance\C# works\Examples\005next\obj\Debug\net6.0\005next.dll
+C:\Git brance\C# works\Examples\005next\obj\Debug\net6.0\refint\005next.dll
+C:\Git brance\C# works\Examples\005next\obj\Debug\net6.0\005next.pdb
+C:\Git brance\C# works\Examples\005next\obj\Debug\net6.0\005next.genruntimeconfig.cache
+C:\Git brance\C# works\Examples\005next\obj\Debug\net6.0\ref\005next.dll
