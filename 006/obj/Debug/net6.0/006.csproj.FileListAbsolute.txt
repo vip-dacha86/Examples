@@ -3,3 +3,13 @@ C:\Git brance\C# works\Examples\006\obj\Debug\net6.0\006.GeneratedMSBuildEditorC
 C:\Git brance\C# works\Examples\006\obj\Debug\net6.0\006.AssemblyInfoInputs.cache
 C:\Git brance\C# works\Examples\006\obj\Debug\net6.0\006.AssemblyInfo.cs
 C:\Git brance\C# works\Examples\006\obj\Debug\net6.0\006.csproj.CoreCompileInputs.cache
+C:\Git brance\C# works\Examples\006\bin\Debug\net6.0\006.exe
+C:\Git brance\C# works\Examples\006\bin\Debug\net6.0\006.deps.json
+C:\Git brance\C# works\Examples\006\bin\Debug\net6.0\006.runtimeconfig.json
+C:\Git brance\C# works\Examples\006\bin\Debug\net6.0\006.dll
+C:\Git brance\C# works\Examples\006\bin\Debug\net6.0\006.pdb
+C:\Git brance\C# works\Examples\006\obj\Debug\net6.0\006.dll
+C:\Git brance\C# works\Examples\006\obj\Debug\net6.0\refint\006.dll
+C:\Git brance\C# works\Examples\006\obj\Debug\net6.0\006.pdb
+C:\Git brance\C# works\Examples\006\obj\Debug\net6.0\006.genruntimeconfig.cache
+C:\Git brance\C# works\Examples\006\obj\Debug\net6.0\ref\006.dll
